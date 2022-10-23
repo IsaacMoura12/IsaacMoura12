@@ -4,6 +4,7 @@
 
 
 Atualmente a concluir a licenciatura na Universidade de Aveiro (3º ano). Interesse por desenvolvimento de software e pela área de redes e comunicações.
+Página do GitHub pessoal com trabalhos e projetos.
 
 ---
 
