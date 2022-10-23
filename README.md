@@ -40,6 +40,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /
    <a href="https://open.spotify.com/user/isaacfilipemoura12" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   <a href = "mailto:isaacfilipe12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </a> 
+  <a href = "https://discord.gg/AF8DgbeV"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  </a> 
  
 ---
 
