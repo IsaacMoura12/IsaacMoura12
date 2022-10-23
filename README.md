@@ -5,7 +5,9 @@
 
 Atualmente a concluir a licenciatura na Universidade de Aveiro (3º ano). Interesse por desenvolvimento de software e pela área de redes e comunicações.
 
-
+<a href="https://github.com/IsaacMoura12">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacMoura12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMoura12&layout=compact&langs_count=7&theme=dracula"/>
 ##
 
 ### 🧰 Languages and Tools
