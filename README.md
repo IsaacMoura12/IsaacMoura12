@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Computadores e Informática`**
 Atualmente a concluir a licenciatura na Universidade de Aveiro (3º ano). Interesse por desenvolvimento de software e pela área de redes e comunicações.
-
+I'm an indie 
 
 ---
 
