@@ -1,19 +1,6 @@
 # 🏄‍♂️ Isaac Moura
 
 
-
-#
-
-### 📊 Stats
-<a href="https://github.com/IsaacMoura12">
-  <img height="150em" line_height="60" src="https://github-readme-stats.vercel.app/api?username=IsaacMoura12&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  
-  <img height="150em"  width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMoura12&layout=compact&langs_count=7&theme=transparent"/>
-
-#
-
-
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
