@@ -1,7 +1,7 @@
 # 🏄‍♂️ Isaac Moura
 
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
@@ -18,10 +18,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-### 🧰 Frameworks and Libraries
+### Frameworks - Libraries
+
+<div style="display: inline_block">
+  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div><br/>
 
 
-
+## Link UP
 
    <a href="https://open.spotify.com/user/isaacfilipemoura12" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   <a href = "mailto:isaacfilipe12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
