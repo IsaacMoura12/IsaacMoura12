@@ -3,7 +3,9 @@
 <br />
 <br />
 <br />
-### Languages and Tools
+
+
+## Languages and Tools
 
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;"
@@ -24,7 +26,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /
 
 
 
-### Frameworks - Libraries
+## Frameworks - Libraries
 
 <div style="display: inline_block">
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
